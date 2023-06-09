@@ -9,7 +9,7 @@ export default function Home() {
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <h1>y</h1>
+        <h1>종이에 password라고 적으세요!</h1>
       </div>
     </main>
   )
